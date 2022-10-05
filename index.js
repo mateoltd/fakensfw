@@ -1,4 +1,1 @@
-var findModule=(item)=>window.webpackChunkdiscord_app.push([[Math.random()],{},(req)=>{for(const m of Object.keys(req.c).map((x)=>req.c[x].exports).filter((x)=>x)){if(m.default&&m.default[item]!==undefined)return m.default}}])
-findModule('getCurrentUser').getCurrentUser().nsfwAllowed = true
-
-// Créditos al respectivo autor, solo está aquí de modo informativo.
+var findModule=a=>window.webpackChunkdiscord_app.push([[Math.random()],{},b=>{for(const c of Object.keys(b.c).map(a=>b.c[a].exports).filter(a=>a))if(c.default&&c.default[a]!==void 0)return c.default}]);findModule("getCurrentUser").getCurrentUser().nsfwAllowed=!0;
