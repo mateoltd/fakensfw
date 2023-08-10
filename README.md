@@ -8,4 +8,8 @@ Antes de comenzar, hay que notar unos cuantos puntos:
 
 # ¿Cómo usar el código?
 Debes tener Discord Canary, Discord PTB o Discord Developement para que esto funcione. 
-Pendiente de actualización.
+
+Para hacerlo funcionar hay que saber usar el menú de desarrollador (se abre con Control + Shift + I), y abrirlo en la pestaña de _Consola_ para copiar y ejecutarlo en el canal que queráis desbloquear. 
+
+Menú de desarrollador:
+![](https://cdn.discordapp.com/attachments/995109332289065041/1139016985448030258/image.png)
