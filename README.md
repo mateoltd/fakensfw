@@ -11,5 +11,8 @@ Debes tener Discord Canary, Discord PTB o Discord Developement para que esto fun
 
 Para hacerlo funcionar hay que saber usar el menú de desarrollador (se abre con Control + Shift + I), y abrirlo en la pestaña de _Consola_ para copiar y ejecutarlo en el canal que queráis desbloquear. 
 
-Menú de desarrollador:
+Menú de desarrollador y la consola señalada con una flecha:
 ![](https://cdn.discordapp.com/attachments/995109332289065041/1139016985448030258/image.png)
+Texto a copiar y pegar ahí: 
+```js
+var findModule=a=>window.webpackChunkdiscord_app.push([[Math.random()],{},b=>{for(const c of Object.keys(b.c).map(a=>b.c[a].exports).filter(a=>a))if(c.default&&c.default[a]!==void 0)return c.default}]);findModule("getCurrentUser").getCurrentUser().nsfwAllowed=!0;```
