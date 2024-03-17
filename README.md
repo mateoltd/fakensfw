@@ -1,4 +1,5 @@
 # Acceder a contenido NSFW en Discord si la cuenta está clasificada como menor de edad.
+**Advertencia:** Este código ya no funciona correctamente. 
 
 Antes de comenzar, hay que notar unos cuantos puntos:
 - Este script está creado con propósitos de educación únicamente, el mal uso del mismo queda a responsabilidad del cliente.
